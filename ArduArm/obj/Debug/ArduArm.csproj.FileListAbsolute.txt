@@ -1,0 +1,9 @@
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\bin\Debug\ArduArm.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.Form1.resources
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.Properties.Resources.resources
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.csproj.GenerateResource.Cache
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\bin\Debug\ArduArm.exe
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\bin\Debug\ArduArm.pdb
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.exe
+c:\users\andre\documents\visual studio 2015\Projects\ArduArm\ArduArm\obj\Debug\ArduArm.pdb
